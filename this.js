@@ -1,5 +1,0 @@
-pokapoka
-privet
-sayonara
-hai
-fhdfhdgfdfg
