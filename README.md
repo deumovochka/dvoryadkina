@@ -1,2 +1,4 @@
 # dvoryadkina
-skill factory repository
+### SkillFactory repository
+Data Scientist educational projects 
+
